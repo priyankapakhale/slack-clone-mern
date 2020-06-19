@@ -1,0 +1,7 @@
+#channel:hover {
+   background-color: #444444;
+}
+
+#channel {
+    cursor: pointer;
+}
